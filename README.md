@@ -21,6 +21,10 @@ A visual chatbot flow builder application built with React, JavaScript, and mode
 - **Lucide React** for beautiful icons
 - **React Bootstrap** for Bootstrap components in React
 
+### 📸 Screenshot
+
+![Chatbot Flow Builder](![alt text](image.png))
+
 ## Getting Started
 
 ### Prerequisites
