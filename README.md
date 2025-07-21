@@ -32,7 +32,7 @@ A visual chatbot flow builder application built with React, JavaScript, and mode
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/divyanshu-kumar123/chatbot-flow-builder-proj.git
 cd chatbot-flow-builder
 ```
 
