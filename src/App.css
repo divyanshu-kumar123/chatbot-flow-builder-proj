@@ -1,0 +1,62 @@
+.message-node {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.message-node .react-flow__handle {
+  width: 8px;
+  height: 8px;
+  background: #007bff;
+  border: 2px solid #fff;
+}
+
+.message-node .react-flow__handle-top {
+  top: -4px;
+}
+
+.message-node .react-flow__handle-bottom {
+  bottom: -4px;
+}
+
+/* Custom scrollbar for panels */
+.overflow-auto::-webkit-scrollbar {
+  width: 6px;
+}
+
+.overflow-auto::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.overflow-auto::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 3px;
+}
+
+.overflow-auto::-webkit-scrollbar-thumb:hover {
+  background: #a1a1a1;
+}
+
+/* React Flow specific styles */
+.react-flow__edge-path {
+  stroke: #007bff;
+  stroke-width: 2;
+}
+
+.react-flow__edge.selected .react-flow__edge-path {
+  stroke: #0056b3;
+  stroke-width: 3;
+}
+
+.react-flow__controls {
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 0.375rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.react-flow__controls-button {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.react-flow__controls-button:hover {
+  background: #f8f9fa;
+}
